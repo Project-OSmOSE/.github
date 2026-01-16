@@ -2,7 +2,7 @@
 <br/>
 <div align="center">
 
-[![OSmOSE logo](./img/osmose_x96.png)](https://osmose.ifremer.fr/)
+[![OSmOSE logo](../img/osmose_x96.png)](https://osmose.ifremer.fr/)
 
 <br/>
 <br/>
@@ -34,13 +34,13 @@ carried out within the community.
 ### Our tools
 
 
-[![OSEkit logo](./img/osekit_x96.png)](https://github.com/Project-OSmOSE/OSEkit) 
+[![OSEkit logo](../img/osekit_x96.png)](https://github.com/Project-OSmOSE/OSEkit) 
 
 [OSEkit](https://github.com/Project-OSmOSE/OSEkit) | A Python package dedicated to the management and analysis of data in underwater passive acoustics.
 
 <br/>
 
-[![APLOSE logo](./img/aplose_x96.png)](https://osmose.ifremer.fr/)
+[![APLOSE logo](../img/aplose_x96.png)](https://osmose.ifremer.fr/)
 
 [APLOSE](https://github.com/Project-OSmOSE/APLOSE) | A scalable web-based annotation tool for marine bioacoustics.                                      |
 
@@ -68,4 +68,4 @@ Our tools are provided for research and teaching purposes. They are provided “
 without warranty. The authors and the institution cannot be held responsible for any
 damage resulting from its use.
 
-<sub>© OSmOSE team, 2023-present</sub>
+<sub>© OSmOSE team, 2025-present</sub>
