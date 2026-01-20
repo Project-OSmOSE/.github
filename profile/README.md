@@ -12,7 +12,7 @@
 **OSmOSE**: Open Science meets Ocean Sound Explorers
 
 [Presentation](#presentation) •
-[Our tools](#out-tools) •
+[Our tools](#our-tools) •
 [Usage](#usage) •
 [Our website](https://osmose.ifremer.fr/)
 
