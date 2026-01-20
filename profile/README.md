@@ -25,9 +25,9 @@ ranging from the collection of raw data to the processing of operations performe
 transformed data. The lack of standardization in this chain complicates the technique 
 required to carry it out and hinders the reproducibility of the analyses.
 
-The OSmOSE project aims to provide the acoustic community with open-source tools covering 
-the entire chain, simplifying data processing and ensuring consistency in the analyses 
-carried out within the community.
+The OSmOSE project provides the acoustic community with open-source tools covering the 
+entire chain, simplifying data processing and ensuring consistency in the analyses carried 
+out within the community.
 
 <br/>
 
