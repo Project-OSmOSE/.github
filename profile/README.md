@@ -37,7 +37,7 @@ out within the community.
 
 [![OSEkit logo](../img/osekit_x96.png)](https://github.com/Project-OSmOSE/OSEkit) 
 
-[OSEkit](https://github.com/Project-OSmOSE/OSEkit) | A Python package dedicated to the management and analysis of data in passive acoustics.
+[OSEkit](https://github.com/Project-OSmOSE/OSEkit) | A Python package dedicated to the management and analysis of data in passive acoustics monitoring.
 
 <br/>
 
