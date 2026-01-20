@@ -41,7 +41,7 @@ out within the community.
 
 <br/>
 
-[![APLOSE logo](../img/aplose_x96.png)](https://osmose.ifremer.fr/)
+[![APLOSE logo](../img/aplose_x96.png)](https://github.com/Project-OSmOSE/APLOSE)
 
 [APLOSE](https://github.com/Project-OSmOSE/APLOSE) | A scalable web-based annotation tool for marine bioacoustics.
 
