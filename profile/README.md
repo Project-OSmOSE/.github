@@ -37,13 +37,13 @@ out within the community.
 
 [![OSEkit logo](../img/osekit_x96.png)](https://github.com/Project-OSmOSE/OSEkit) 
 
-[OSEkit](https://github.com/Project-OSmOSE/OSEkit) | A Python package dedicated to the management and analysis of data in underwater passive acoustics.
+[OSEkit](https://github.com/Project-OSmOSE/OSEkit) | A Python package dedicated to the management and analysis of data in passive acoustics.
 
 <br/>
 
 [![APLOSE logo](../img/aplose_x96.png)](https://github.com/Project-OSmOSE/APLOSE)
 
-[APLOSE](https://github.com/Project-OSmOSE/APLOSE) | A scalable web-based annotation tool for marine bioacoustics.
+[APLOSE](https://github.com/Project-OSmOSE/APLOSE) | A web-based annotation platform for passive acoustic monitoring.
 
 <br/>
 
