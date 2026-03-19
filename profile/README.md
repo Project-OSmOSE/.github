@@ -14,7 +14,7 @@
 [Presentation](#presentation) •
 [Our tools](#our-tools) •
 [Usage](#usage) •
-[Our website](https://osmose.ifremer.fr/)
+[Reach out](#reach-out)
 
 </div>
 
@@ -39,13 +39,23 @@ out within the community.
 
 [OSEkit](https://github.com/Project-OSmOSE/OSEkit) | A Python package dedicated to the management and analysis of data in passive acoustics monitoring.
 
+<i>[Explore OSEkit documentation](https://project-osmose.github.io/OSEkit/)</i>
+
+<br/>
 <br/>
 
 [![APLOSE logo](../img/aplose_x96.png)](https://github.com/Project-OSmOSE/APLOSE)
 
 [APLOSE](https://github.com/Project-OSmOSE/APLOSE) | A web-based annotation platform for passive acoustic monitoring.
 
+<i>[Explore APLOSE documentation](https://project-osmose.github.io/APLOSE/)</i>
+
 <br/>
+
+
+### Reach out
+
+You can discover our team on our [website](https://osmose.ifremer.fr/) or join us in our [community discord server](https://discord.gg/pwVtR6QEPx).
 
 
 ### Usage
